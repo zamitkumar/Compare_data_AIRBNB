@@ -1,5 +1,7 @@
 # Compare_data_AIRBNB
 Compare Airbnb listing Data for Seattle 
+Blog post :
+https://medium.com/@amit.saptech/unlocking-insights-a-deep-dive-into-seattles-airbnb-hosting-trends-7614cd05e5b2
 
 **Data Source:**
 
