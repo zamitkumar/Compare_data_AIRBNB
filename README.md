@@ -6,6 +6,7 @@ Compare Airbnb listing Data for Seattle
   #!/bin/bash
 curl -L -o ~/Downloads/seattle.zip\
   https://www.kaggle.com/api/v1/datasets/download/airbnb/seattle
+  
 **Key Highlights**
 Price and Accommodation Features:Explore how listing prices correlate with features like the number of bedrooms, guest capacity, and overall amenities.
 Property and Room Types:Discover the most popular property types and room preferences among Airbnb guests in Seattle.
