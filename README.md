@@ -16,16 +16,16 @@ Key points to compare within the Seattle Airbnb data include:
 
 1.Price distribution:
   Compare the distribution of listing prices to identify high-priced vs. low-priced neighbourhood.
-2.Room type analysis:
-  Compare the prevalence of room types (entire home, private room, shared room).
+2.Room type preference analysis:
+  Compare the prevalence of room types preference (entire home, private room, shared room).
 3.Price distrubution of the listing :
  Compare price distribution of the listing.
 4.Neighborhood insights:
  Compare prices and availability across neighborhoods.
-5.Review analysis:
- Compare reviews, ratings, and the number of reviews per listing.
-6.Host behavior:
- Compare superhosts, multiple listings per host, and host responses.
+5.Price by room Type :
+ Compare the price by room type 
+6.Review Scores Rating Distribution:
+  Review scores are typically on a scale from 0 to 100.
 
 1.# Distribution of Neighborhoods Seatle
 
