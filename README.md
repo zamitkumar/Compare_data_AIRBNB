@@ -41,9 +41,9 @@ Categorical columns with mode imputation With Median and frequently used value f
 
 Summary statistics for price
 
-Estimating occupancy rates Seatle
+Estimating occupancy rates Seattle
 
-Distribution of Property Types in Seatle
+Distribution of Property Types in Seattle
 
 Calculate the distribution of the property types
 
