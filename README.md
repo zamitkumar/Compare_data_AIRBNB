@@ -1,6 +1,6 @@
 Compare Airbnb Listing Data for Seattle
 Blog Post
-Unlocking Insights: A Deep Dive into Seattle's Airbnb Hosting Trends
+[Unlocking Insights: A Deep Dive into Seattle's Airbnb Hosting Trends](https://medium.com/@amit.saptech/unlocking-insights-a-deep-dive-into-seattles-airbnb-hosting-trends-7614cd05e5b2)
 
 This repository contains the code and analysis for comparing Airbnb listing data in Seattle. The project aims to uncover insights into pricing, property features, neighborhood popularity, and guest reviews using exploratory data analysis (EDA) techniques.
 
